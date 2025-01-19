@@ -6,7 +6,7 @@
 
 Our fork is based on the original SkillAPI and the forked SkillAPI by Sentropic.
 
-* Includes all premium features from the original premium version of SkillAPI found on spigot.
+* Includes all premium features from the original premium version of SkillAPI found on spigot
 
 ## New Dynamic editor
 
